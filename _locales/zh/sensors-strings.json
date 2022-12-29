@@ -1,0 +1,14 @@
+{
+    "sensors|block": "感應器",
+    "sensors.sensor_ping|block": "超音波感應器 trig腳位 %trig|echo腳位 %echo|取得距離，單位 %unit",
+    "sensors.PingUnit.Centimeters|block":"公分",
+    "sensors.PingUnit.Inches|block":"英吋",
+    "sensors.PingUnit.MicroSeconds|block":"毫秒",
+    "sensors.get_DHT11_value|block": "溫濕度感應器DHT11 腳位 %pin_arg|取得 %dhtResult",
+    "sensors.Dht11Result.Celsius|block": "攝氏溫度",
+    "sensors.Dht11Result.Fahrenheit|block": "華氏溫度",
+    "sensors.Dht11Result.humidity|block": "濕度",
+    "sensors.LEDType.cathode|block": "共陰極",
+    "sensors.LEDType.anode|block": "共陽極",
+    "sensors.RGBLight|block": "RGB LED 設定型態：%myType|紅色腳位 %RedPin|綠色腳位 %GreenPin|藍色腳位 %BluePin|紅色值(0~255) %RedValue|綠色值(0~255) %GreenValue|藍色值(0~255) %BlueValue"
+}
